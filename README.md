@@ -38,5 +38,3 @@ Assets/
 ## Katkıda Bulunma
 
 Katkıda bulunmak isterseniz lütfen bir fork oluşturun ve pull request gönderin.
-
-## Lisa
